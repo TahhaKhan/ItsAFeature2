@@ -24,7 +24,7 @@ public class managerNPCUI : MonoBehaviour
         //distance
         float dist = 1/Vector3.Distance(transform.position, objPlayer.transform.position)*4f;
         //UI size change
-        dist = Mathf.Clamp(dist, 1f, 2.0f);
+        dist = Mathf.Clamp(dist, 0f, 2.0f);
         uiUse.transform.localScale = new Vector3(dist, dist, 0);
     }
 }
