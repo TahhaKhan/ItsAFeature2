@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class NewBehaviourScript : MonoBehaviour
+public class Victory : MonoBehaviour
 {
+    public GameObject victoryMenuUI;
     // Start is called before the first frame update
     void Start()
     {
@@ -14,12 +15,15 @@ public class NewBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
     }
-    void OnTriggerEnter(Collider other)
+    public void LoadMenu()
     {
-            Debug.Log("Sax");
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(0);
+    }
 
+    public void QuitGame()
+    {
+        Application.Quit();
     }
 }

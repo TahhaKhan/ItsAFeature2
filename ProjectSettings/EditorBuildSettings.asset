@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lvl_Tahha.unity
     guid: 036cf00550b94f647ade8e20c8ecdc36
+  - enabled: 1
+    path: Assets/Scenes/Outro.unity
+    guid: 4ab7cc764e77c2f42ba2d2a7ffdb4d51
   m_configObjects: {}
