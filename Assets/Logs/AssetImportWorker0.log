@@ -1,0 +1,473 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.6f1 (7da38d85baf6) revision 8233869'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'en' Physical Memory: 12238 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\PROGRAMS\UNITY\2021.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/tahha/Documents/GitHub/itsafeature/Assets
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62560
+Successfully changed project path to: C:/Users/tahha/Documents/GitHub/itsafeature/Assets
+C:/Users/tahha/Documents/GitHub/itsafeature/Assets
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Assets/sink.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/tv velha.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/mainshower.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/4 Chair 2 Tone/4 Chair 2 Tone.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Refreshing native plugins compatible for Editor in 842.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.6f1 (7da38d85baf6)
+[Subsystems] Discovering subsystems at path D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/tahha/Documents/GitHub/itsafeature/Assets/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2988 MB
+    Driver:   31.0.15.1659
+Initialize mono
+Mono path[0] = 'D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56020
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: D:/PROGRAMS/UNITY/2021.3.6f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.008446 seconds.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Assets/sink.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/tv velha.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/mainshower.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/4 Chair 2 Tone/4 Chair 2 Tone.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Refreshing native plugins compatible for Editor in 135.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.041 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1042ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (760ms)
+			LoadAssemblies (126ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (169ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (470ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (95ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (136ms)
+				BeforeProcessingInitializeOnLoad (3ms)
+				ProcessInitializeOnLoadAttributes (165ms)
+				ProcessInitializeOnLoadMethodAttributes (70ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.038347 seconds.
+Android Extension - Scanning For ADB Devices 777 ms
+Begin MonoManager ReloadAssembly
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.780 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1782ms)
+		BeginReloadAssembly (256ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (29ms)
+		EndReloadAssembly (1244ms)
+			LoadAssemblies (123ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (419ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (97ms)
+			SetupLoadedEditorAssemblies (532ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (119ms)
+				ProcessInitializeOnLoadAttributes (337ms)
+				ProcessInitializeOnLoadMethodAttributes (42ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Assets/sink.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/tv velha.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/mainshower.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/4 Chair 2 Tone/4 Chair 2 Tone.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+========================================================================
+Worker process is ready to serve import requests
+Assets/sink.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/tv velha.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/mainshower.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Assets/4 Chair 2 Tone/4 Chair 2 Tone.c4d: Unity no longer supports importing Cinema 4D files directly, but we're working with Maxon to make the experience better. To import Cinema 4D files, install Maxon's external importer. You can find more information on the Unity Forum: https://on.unity.com/c4d.
+
+Please note that FBX files exported from Cinema4D are still supported.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3247 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (55.3 KB). Loaded Objects now: 3709.
+Memory consumption went from 111.9 MB to 111.8 MB.
+Total: 4.127800 ms (FindLiveObjects: 0.337000 ms CreateObjectMapping: 0.160200 ms MarkObjects: 3.483800 ms  DeleteObjects: 0.143600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 298403.881458 seconds.
+  path: Assets/table.blend
+  artifactKey: Guid(21a78cf40e559d54ca5bd27306296bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/table.blend using Guid(21a78cf40e559d54ca5bd27306296bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b77c3ba2f8c7696e91385432c2ace438') in 0.768186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Background.jpg
+  artifactKey: Guid(8cc85a884191c804b887ffd6774fdd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Background.jpg using Guid(8cc85a884191c804b887ffd6774fdd6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4535f9214f0dd7ccfb536e251c1829d') in 0.297566 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/leaves.png
+  artifactKey: Guid(84bafccdc988ad5478b4fd029920db6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/leaves.png using Guid(84bafccdc988ad5478b4fd029920db6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa3517d980bef6b20aa03618f2437eab') in 0.022716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/floor.png
+  artifactKey: Guid(a0958de66092c07468494cf9ac948d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/floor.png using Guid(a0958de66092c07468494cf9ac948d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf2d9086f04080442ef3dab8cf972675') in 0.023250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/tex_generator_01_occ.jpg
+  artifactKey: Guid(9cd045cd8f2daef4db9676a5ca32f619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tex_generator_01_occ.jpg using Guid(9cd045cd8f2daef4db9676a5ca32f619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f69c8e52be82e3824790eb2f443c1e8') in 0.018611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Koltuk1.png
+  artifactKey: Guid(24280e38633570149a2dea958e7f85a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Koltuk1.png using Guid(24280e38633570149a2dea958e7f85a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc17e8449595f0b729710af5eb29c55') in 0.022012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/tex_generator_01_d.jpg
+  artifactKey: Guid(e0a47c96cab1d534aac64767c0c04bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tex_generator_01_d.jpg using Guid(e0a47c96cab1d534aac64767c0c04bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9566d59f1c841b14a32120f228671e') in 0.017476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Generator_01.3ds
+  artifactKey: Guid(4e481e6af374c0f4c8f79000f2bbdbe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Generator_01.3ds using Guid(4e481e6af374c0f4c8f79000f2bbdbe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da7127f2f039795b79673d2dabe4998') in 0.073662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Koltuk.3ds
+  artifactKey: Guid(3b777d1877a6d7f47b78cec23617dbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Koltuk.3ds using Guid(3b777d1877a6d7f47b78cec23617dbb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94f49bcfe0eb633c9af81bb9a9907bb') in 0.283978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/mirashower.3ds
+  artifactKey: Guid(295b02edae5163347b41c1bb7f94621d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mirashower.3ds using Guid(295b02edae5163347b41c1bb7f94621d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3b3415986d7d0109df6f1073440f5a9') in 0.482341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/table_rou.png
+  artifactKey: Guid(faaf7e99765ada944a4f20d9236582e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/table_rou.png using Guid(faaf7e99765ada944a4f20d9236582e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca88cee275a9698e8129fb5420d5d14') in 0.016842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/potato tex.png
+  artifactKey: Guid(18b40fe39f6be304ab373da9246fa269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/potato tex.png using Guid(18b40fe39f6be304ab373da9246fa269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f2648c271eed8e7147220f82d95e2b2') in 0.016804 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/round table Ultimate(free Final).fbx
+  artifactKey: Guid(bf79664030032694d8c68d7effbd710f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/round table Ultimate(free Final).fbx using Guid(bf79664030032694d8c68d7effbd710f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750416ba9f6b943930d89af132d406a1') in 0.096073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/sink.png
+  artifactKey: Guid(abe4287dd48c1bd498abc8fcaa3290bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sink.png using Guid(abe4287dd48c1bd498abc8fcaa3290bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee628156f00b73cca6def6489f1f8fc') in 0.018575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/table_col.png
+  artifactKey: Guid(f99054519cef3b1489d8d30be971a00f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/table_col.png using Guid(f99054519cef3b1489d8d30be971a00f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c7f1a912e1c6d8fec7f15a97e2ad47') in 0.031425 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/House.fbx
+  artifactKey: Guid(5a718c22ce96ee64492f55386e73080b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/House.fbx using Guid(5a718c22ce96ee64492f55386e73080b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3f2459857508a2159f6b78512db22a8') in 0.365779 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/koltuk2.fbx
+  artifactKey: Guid(e0105ca25f2245b49ac599b2bc3ba0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/koltuk2.fbx using Guid(e0105ca25f2245b49ac599b2bc3ba0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d5d2580a14a4052ac39b43ce733512') in 0.170240 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Generator & Engine_01.obj
+  artifactKey: Guid(ef2b67a2ed62f3c4b8da70c58f99e0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Generator & Engine_01.obj using Guid(ef2b67a2ed62f3c4b8da70c58f99e0b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f13a2b2638bb05337539a31df1dc333') in 0.089256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/mainshower2.png
+  artifactKey: Guid(3add89dc8505ddc4ea26fb9fd3a06d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mainshower2.png using Guid(3add89dc8505ddc4ea26fb9fd3a06d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd596382f8b2c40fea5db8e344b862632') in 0.016537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/round table Ultimate(free Final).blend
+  artifactKey: Guid(577b4c6c1150c104888b360047850082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/round table Ultimate(free Final).blend using Guid(577b4c6c1150c104888b360047850082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e493ebdddfacc6e0299880d55390d81a') in 0.055308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/round table Ultimate(free Final).3ds
+  artifactKey: Guid(5e69fc2192461594fb3415b386a0c7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/round table Ultimate(free Final).3ds using Guid(5e69fc2192461594fb3415b386a0c7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2baeeaae200ed060de1a5310b3ed4c2b') in 0.064027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/tex_generator_01_n.jpg
+  artifactKey: Guid(a36acf1a9ef67a447b3c8d0776493b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tex_generator_01_n.jpg using Guid(a36acf1a9ef67a447b3c8d0776493b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0e80a9ed811b296773fb30530cdd64') in 0.016216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Generator_01.obj
+  artifactKey: Guid(32cf153a222ff1f4c9adf2d96f0c8491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Generator_01.obj using Guid(32cf153a222ff1f4c9adf2d96f0c8491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '013148f201b76953734377f60a5dcffe') in 0.066479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Koltuk.obj
+  artifactKey: Guid(9ce886f849b78e246ab57ada985f252e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Koltuk.obj using Guid(9ce886f849b78e246ab57ada985f252e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfa45b72bf0de3e4b4b9accd6e4941b5') in 0.033042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/tex_generator_01_s.jpg
+  artifactKey: Guid(b4fae0728542e874f808b17c0a43a635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tex_generator_01_s.jpg using Guid(b4fae0728542e874f808b17c0a43a635) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1715a2753876a4a8cc405f3410d199') in 0.016716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/sink.3ds
+  artifactKey: Guid(1e514935e38c6664f9cf004095f659ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sink.3ds using Guid(1e514935e38c6664f9cf004095f659ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6ae3fc185a0a7a68e409f4176aaf50') in 0.106637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/tv velha.obj
+  artifactKey: Guid(a5e2bf4157622074da4d1e132359f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tv velha.obj using Guid(a5e2bf4157622074da4d1e132359f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba13b485452468d03cceb7cd1e4739c') in 0.044234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/ColorGradient.asset
+  artifactKey: Guid(812015c9385bee14ead4e1cb0f7688b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ColorGradient.asset using Guid(812015c9385bee14ead4e1cb0f7688b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f221b6cda39a47566ba6b3afd7ae94') in 0.010537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Koltuk.blend
+  artifactKey: Guid(48dc4e18ba11c0d4ab0ea5c6ba2205d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Koltuk.blend using Guid(48dc4e18ba11c0d4ab0ea5c6ba2205d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea480519c26c18aca9a79a9e57138584') in 0.184161 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/mirashower.png
+  artifactKey: Guid(2ae261d69fb1d0b4eb8f0e9d6920ec85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/mirashower.png using Guid(2ae261d69fb1d0b4eb8f0e9d6920ec85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70adf3bdef064c2740acd7a56a437afe') in 0.014972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Engine.obj
+  artifactKey: Guid(a83473858a7c30f4db3481de7ad858f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Engine.obj using Guid(a83473858a7c30f4db3481de7ad858f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17ca3bf91a17ea85794e9f5c93ad6f8') in 0.035956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/monitor.blend
+  artifactKey: Guid(547801d90da00094182aeec50cf1aba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/monitor.blend using Guid(547801d90da00094182aeec50cf1aba2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23651007021233e2cd23834151abb210') in 0.052121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sofa.blend
+  artifactKey: Guid(471f6cb329deb5e468066ccd7a477719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sofa.blend using Guid(471f6cb329deb5e468066ccd7a477719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2b39e2efa06c8722eb7fb83f37da3e') in 0.163722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/generador electrico de tubo.OBJ
+  artifactKey: Guid(b645feb9c3425c742ac8162c98166786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/generador electrico de tubo.OBJ using Guid(b645feb9c3425c742ac8162c98166786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87002c639c039f42a3b0d6bbe769c18') in 0.075387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/table(1).blend
+  artifactKey: Guid(6a77a05d3c2895f4f819eba93f1df968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/table(1).blend using Guid(6a77a05d3c2895f4f819eba93f1df968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22604a288ece4d5c17734a4c034873f2') in 0.109540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Engine.3ds
+  artifactKey: Guid(ebf6312030be1cd4d89ef2221dc007d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Engine.3ds using Guid(ebf6312030be1cd4d89ef2221dc007d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff0aab73c420fea5cbc2216531bb0e6') in 0.030845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/sink2.png
+  artifactKey: Guid(4b47afe65ead75d41b668a560332087c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sink2.png using Guid(4b47afe65ead75d41b668a560332087c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b17241f99b48c9beabf0d3c8ac1a965') in 0.014520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Koltuk2.png
+  artifactKey: Guid(6b2d14cee4b09f443b8d72dd454ad5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Koltuk2.png using Guid(6b2d14cee4b09f443b8d72dd454ad5d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6830066acfad613aba9d1c88d776bae1') in 0.019079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Lantern.FBX
+  artifactKey: Guid(ef88d3eb79aa16446992018c38af4fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Lantern.FBX using Guid(ef88d3eb79aa16446992018c38af4fbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55689be702f698b08cbace346ad079ab') in 0.122934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/table.fbx
+  artifactKey: Guid(3516c333809559044befbf5c68d84d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/table.fbx using Guid(3516c333809559044befbf5c68d84d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '539a29684184f754ca6952c7f6aedae2') in 0.108424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/pause.png
+  artifactKey: Guid(e4d705e701a85e84ebf94a6124ba981e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/pause.png using Guid(e4d705e701a85e84ebf94a6124ba981e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1e1cc6fc3af25061a3f7b65fef9efdc') in 0.035505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Generator & Engine_01.3ds
+  artifactKey: Guid(0303fad536a9bd64dbcf232e6532f983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Generator & Engine_01.3ds using Guid(0303fad536a9bd64dbcf232e6532f983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cdbfd48a9c898c9399be10d1e217325') in 0.073796 seconds 
